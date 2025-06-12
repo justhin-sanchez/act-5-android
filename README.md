@@ -1,6 +1,6 @@
-# myapp
+# capturas
+![image](https://github.com/user-attachments/assets/0181c7d9-bc67-4c64-9217-1bf00cbbd7f9)
 
-A new Flutter project.
 
 ## Getting Started
 
