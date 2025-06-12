@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "847669236909",
+    "project_id": "loginact5",
+    "storage_bucket": "loginact5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847669236909:android:32421d2c6536681cf06224",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjsjdncteWmMSg4BxuV2UNAmhkgLDgdF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
